@@ -1,0 +1,6 @@
+{
+  "name": "Packd Logistics",
+  "description": "Data-Driven Road Logistics landing page for B2B supply chain managers, featuring real-time interactive dashboards and quote estimators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
